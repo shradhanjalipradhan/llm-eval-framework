@@ -49,8 +49,9 @@ st.dataframe(
 st.subheader("🥇 Best in Class")
 col1, col2, col3 = st.columns(3)
 
-best_f1 = max(summary.items(), key=lambda x: x[1]["f1_avg"])
-best_hal = min(summary.items(), key=lambda x: x[1]["hallucination_rate"])
+best_f1_candidates = sorted(summary.items(), key=lambda x: (-x[1]["f1_avg"], x[1]["avg_latency"]))
+best_f1 = best_f1_candidates[0]
+best_hal = min(summary.items(), key=lambda x: (x[1]["hallucination_rate"], x[1]["avg_latency"]))
 best_lat = min((x for x in summary.items() if x[1]["avg_latency"] > 0), key=lambda x: x[1]["avg_latency"])
 
 col1.metric("Highest F1", best_f1[0].upper(), f"{best_f1[1]['f1_avg']:.3f}")
@@ -95,7 +96,6 @@ for col, (model, score) in zip(cols, sample["scores"].items()):
         else:
             output = score.get("output") or {}
             st.json(output)
-            st.caption(f"F1: {score.get('f1_avg', 0):.3f} | Hallucination: {score.get('hallucination_rate', 0):.3f} | {score.get('latency', 0):.2f}s")
 
 st.markdown("---")
 st.caption("Built with Groq · Cohere · Mistral · RAGAS · LangFuse · Streamlit")

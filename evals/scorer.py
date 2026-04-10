@@ -112,6 +112,7 @@ def score_sample(sample: dict) -> dict:
             "hallucination_rate": hallucination_rate,
             "latency": model_data["latency"],
             "tokens": model_data["tokens"],
+            "output": pred,  # store actual output for inspector
         }
 
     return {"sample_id": sample["sample_id"], "scores": scores}

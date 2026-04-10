@@ -1,0 +1,2410 @@
+{
+  "sample_scores": [
+    {
+      "sample_id": 0,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.514,
+          "tokens": 1230
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 16.731,
+          "tokens": 1466.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.167,
+          "latency": 1.121,
+          "tokens": 1566
+        }
+      }
+    },
+    {
+      "sample_id": 1,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.328,
+          "tokens": 1139
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 3.099,
+          "tokens": 1367.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 1.298,
+          "tokens": 1346
+        }
+      }
+    },
+    {
+      "sample_id": 2,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 1.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.513,
+          "tokens": 1283
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 1.0,
+          "hallucination_rate": 0.0,
+          "latency": 86.757,
+          "tokens": 1517.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 1.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.719,
+          "tokens": 1568
+        }
+      }
+    },
+    {
+      "sample_id": 3,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.481,
+          "tokens": 1279
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 109.396,
+          "tokens": 1546.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.675,
+          "tokens": 1533
+        }
+      }
+    },
+    {
+      "sample_id": 4,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.379,
+          "tokens": 1218
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 24.793,
+          "tokens": 1469.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.796,
+          "tokens": 1502
+        }
+      }
+    },
+    {
+      "sample_id": 5,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.702,
+          "tokens": 1295
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 33.335,
+          "tokens": 1528.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 1.17,
+          "tokens": 1570
+        }
+      }
+    },
+    {
+      "sample_id": 6,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.43,
+          "tokens": 1254
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 3.142,
+          "tokens": 1491.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.694,
+          "tokens": 1536
+        }
+      }
+    },
+    {
+      "sample_id": 7,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.287,
+          "tokens": 1268
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 11.678,
+          "tokens": 1536.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.876,
+          "tokens": 1572
+        }
+      }
+    },
+    {
+      "sample_id": 8,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.31,
+          "tokens": 647
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 1.408,
+          "tokens": 842.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.699,
+          "tokens": 737
+        }
+      }
+    },
+    {
+      "sample_id": 9,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.499,
+          "tokens": 841
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 25.369,
+          "tokens": 1043.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.772,
+          "tokens": 990
+        }
+      }
+    },
+    {
+      "sample_id": 10,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.495,
+          "tokens": 1279
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 3.837,
+          "tokens": 1557.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.808,
+          "tokens": 1536
+        }
+      }
+    },
+    {
+      "sample_id": 11,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 1.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.426,
+          "tokens": 1273
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 1.0,
+          "hallucination_rate": 0.0,
+          "latency": 3.117,
+          "tokens": 1529.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 1.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.771,
+          "tokens": 1567
+        }
+      }
+    },
+    {
+      "sample_id": 12,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.409,
+          "tokens": 1254
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 3.438,
+          "tokens": 1518.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.632,
+          "tokens": 1526
+        }
+      }
+    },
+    {
+      "sample_id": 13,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 1.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.572,
+          "tokens": 1129
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 1.0,
+          "hallucination_rate": 0.0,
+          "latency": 9.352,
+          "tokens": 1359.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 1.0,
+          "hallucination_rate": 0.0,
+          "latency": 1.089,
+          "tokens": 1309
+        }
+      }
+    },
+    {
+      "sample_id": 14,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.382,
+          "tokens": 1276
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 2.525,
+          "tokens": 1502.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.902,
+          "tokens": 1555
+        }
+      }
+    },
+    {
+      "sample_id": 15,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 1.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.442,
+          "tokens": 1248
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 1.0,
+          "hallucination_rate": 0.0,
+          "latency": 30.181,
+          "tokens": 1487.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 1.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.727,
+          "tokens": 1533
+        }
+      }
+    },
+    {
+      "sample_id": 16,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.399,
+          "tokens": 857
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 2.95,
+          "tokens": 1056.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.646,
+          "tokens": 998
+        }
+      }
+    },
+    {
+      "sample_id": 17,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.514,
+          "tokens": 982
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 1.579,
+          "tokens": 1201.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.8,
+          "tokens": 1160
+        }
+      }
+    },
+    {
+      "sample_id": 18,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.539,
+          "tokens": 1304
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 3.381,
+          "tokens": 1532.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.759,
+          "tokens": 1534
+        }
+      }
+    },
+    {
+      "sample_id": 19,
+      "scores": {
+        "groq": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.301,
+          "tokens": 1250
+        },
+        "cohere": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 1.552,
+          "tokens": 1501.0
+        },
+        "mistral": {
+          "field_scores": {
+            "title": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "skipped": false
+            },
+            "company": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "location": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "employment_type": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            },
+            "required_skills": {
+              "precision": null,
+              "recall": null,
+              "f1": null,
+              "skipped": true
+            }
+          },
+          "f1_avg": 0.0,
+          "hallucination_rate": 0.0,
+          "latency": 0.721,
+          "tokens": 1522
+        }
+      }
+    }
+  ],
+  "summary": {
+    "groq": {
+      "f1_avg": 0.2,
+      "hallucination_rate": 0.0,
+      "avg_latency": 0.446,
+      "success_rate": 1.0,
+      "samples_scored": 20,
+      "errors": 0
+    },
+    "mistral": {
+      "f1_avg": 0.2,
+      "hallucination_rate": 0.008,
+      "avg_latency": 0.834,
+      "success_rate": 1.0,
+      "samples_scored": 20,
+      "errors": 0
+    },
+    "cohere": {
+      "f1_avg": 0.2,
+      "hallucination_rate": 0.0,
+      "avg_latency": 18.881,
+      "success_rate": 1.0,
+      "samples_scored": 20,
+      "errors": 0
+    }
+  }
+}
