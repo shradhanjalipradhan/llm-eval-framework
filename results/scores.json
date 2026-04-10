@@ -39,7 +39,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.514,
-          "tokens": 1230
+          "tokens": 1230,
+          "output": {
+            "title": "SR. HR GENERALIST",
+            "company": null,
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "cohere": {
           "field_scores": {
@@ -77,7 +88,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 16.731,
-          "tokens": 1466.0
+          "tokens": 1466.0,
+          "output": {
+            "title": "Sr. HR Generalist",
+            "company": null,
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "mistral": {
           "field_scores": {
@@ -115,7 +137,35 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.167,
           "latency": 1.121,
-          "tokens": 1566
+          "tokens": 1566,
+          "output": {
+            "title": "Senior HR Generalist",
+            "company": null,
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "HRIS",
+              "Payroll Processing",
+              "Talent Acquisition",
+              "Performance Management",
+              "Compensation and Benefits",
+              "Employee Relations",
+              "HR Compliance",
+              "Recruitment",
+              "Job Descriptions",
+              "Learning and Development",
+              "HR Audits",
+              "FMLA",
+              "ADA",
+              "FLSA",
+              "ERISA",
+              "EEOC Guidelines"
+            ],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         }
       }
     },
@@ -158,7 +208,20 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.328,
-          "tokens": 1139
+          "tokens": 1139,
+          "output": {
+            "title": "Manager of Human Resources",
+            "company": "YSB",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "Microsoft Office"
+            ],
+            "experience_years": 2,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "cohere": {
           "field_scores": {
@@ -196,7 +259,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 3.099,
-          "tokens": 1367.0
+          "tokens": 1367.0,
+          "output": {
+            "title": "Manager of Human Resources",
+            "company": "YSB",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": 3,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "mistral": {
           "field_scores": {
@@ -234,7 +308,20 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 1.298,
-          "tokens": 1346
+          "tokens": 1346,
+          "output": {
+            "title": "Manager of Human Resources",
+            "company": "YSB",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "Microsoft Office"
+            ],
+            "experience_years": 2,
+            "employment_type": null,
+            "remote": null
+          }
         }
       }
     },
@@ -277,7 +364,18 @@
           "f1_avg": 1.0,
           "hallucination_rate": 0.0,
           "latency": 0.513,
-          "tokens": 1283
+          "tokens": 1283,
+          "output": {
+            "title": "Director of Human Resources",
+            "company": null,
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "cohere": {
           "field_scores": {
@@ -315,7 +413,18 @@
           "f1_avg": 1.0,
           "hallucination_rate": 0.0,
           "latency": 86.757,
-          "tokens": 1517.0
+          "tokens": 1517.0,
+          "output": {
+            "title": "Director of Human Resources",
+            "company": "Our Client",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "mistral": {
           "field_scores": {
@@ -353,7 +462,18 @@
           "f1_avg": 1.0,
           "hallucination_rate": 0.0,
           "latency": 0.719,
-          "tokens": 1568
+          "tokens": 1568,
+          "output": {
+            "title": "Director of Human Resources",
+            "company": null,
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         }
       }
     },
@@ -396,7 +516,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.481,
-          "tokens": 1279
+          "tokens": 1279,
+          "output": {
+            "title": "CHIEF HUMAN RESOURCES OFFICER (CHRO)",
+            "company": "EAST 57TH STREET PARTNERS",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "cohere": {
           "field_scores": {
@@ -434,7 +565,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 109.396,
-          "tokens": 1546.0
+          "tokens": 1546.0,
+          "output": {
+            "title": "CHIEF HUMAN RESOURCES OFFICER (CHRO)",
+            "company": "EAST 57TH STREET PARTNERS",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "mistral": {
           "field_scores": {
@@ -472,7 +614,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.675,
-          "tokens": 1533
+          "tokens": 1533,
+          "output": {
+            "title": null,
+            "company": "East 57th Street Partners",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         }
       }
     },
@@ -515,7 +668,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.379,
-          "tokens": 1218
+          "tokens": 1218,
+          "output": {
+            "title": null,
+            "company": "AVI-SPL",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "cohere": {
           "field_scores": {
@@ -553,7 +717,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 24.793,
-          "tokens": 1469.0
+          "tokens": 1469.0,
+          "output": {
+            "title": null,
+            "company": "AVI-SPL",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "mistral": {
           "field_scores": {
@@ -591,7 +766,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.796,
-          "tokens": 1502
+          "tokens": 1502,
+          "output": {
+            "title": "HR Organizational Development & Change Management Specialist",
+            "company": "AVI-SPL",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         }
       }
     },
@@ -634,7 +820,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.702,
-          "tokens": 1295
+          "tokens": 1295,
+          "output": {
+            "title": "HR Manager",
+            "company": null,
+            "location": "Anaheim, Concord, Woodinville WA",
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": false
+          }
         },
         "cohere": {
           "field_scores": {
@@ -672,7 +869,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 33.335,
-          "tokens": 1528.0
+          "tokens": 1528.0,
+          "output": {
+            "title": "HR Manager",
+            "company": null,
+            "location": "On-site at company headquarters, with visits to branch offices in Anaheim, Concord, Woodinville WA, and future locations",
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": false
+          }
         },
         "mistral": {
           "field_scores": {
@@ -710,7 +918,27 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 1.17,
-          "tokens": 1570
+          "tokens": 1570,
+          "output": {
+            "title": "HR Manager",
+            "company": null,
+            "location": "Anaheim, Concord, Woodinville WA",
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "Applicant Tracking Systems (ATS)",
+              "Talent Acquisition",
+              "Recruiting",
+              "Onboarding",
+              "Labor Compliance",
+              "Employee Handbook",
+              "HR Policies",
+              "Strategic Planning"
+            ],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": false
+          }
         }
       }
     },
@@ -753,7 +981,20 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.43,
-          "tokens": 1254
+          "tokens": 1254,
+          "output": {
+            "title": "HR Generalist",
+            "company": "Turn 14 Distribution",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "Microsoft"
+            ],
+            "experience_years": 1,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "cohere": {
           "field_scores": {
@@ -791,7 +1032,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 3.142,
-          "tokens": 1491.0
+          "tokens": 1491.0,
+          "output": {
+            "title": "HR Generalist",
+            "company": "Turn 14 Distribution",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": 1,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "mistral": {
           "field_scores": {
@@ -829,7 +1081,22 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.694,
-          "tokens": 1536
+          "tokens": 1536,
+          "output": {
+            "title": "HR Generalist",
+            "company": "Turn 14 Distribution",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "Ceridian",
+              "Dayforce",
+              "Microsoft Office"
+            ],
+            "experience_years": 1,
+            "employment_type": null,
+            "remote": null
+          }
         }
       }
     },
@@ -872,7 +1139,21 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.287,
-          "tokens": 1268
+          "tokens": 1268,
+          "output": {
+            "title": "HR Information Systems Specialist",
+            "company": "Visiting Nurse Health System",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "ADP",
+              "Excel"
+            ],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "cohere": {
           "field_scores": {
@@ -910,7 +1191,20 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 11.678,
-          "tokens": 1536.0
+          "tokens": 1536.0,
+          "output": {
+            "title": "HR Information Systems Specialist",
+            "company": "Visiting Nurse Health System",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "Excel"
+            ],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "mistral": {
           "field_scores": {
@@ -948,7 +1242,24 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.876,
-          "tokens": 1572
+          "tokens": 1572,
+          "output": {
+            "title": "HR Information Systems Specialist",
+            "company": "Visiting Nurse Health System",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "ADP HRIS",
+              "Excel",
+              "Data Analysis",
+              "HR Systems",
+              "Database Integration"
+            ],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         }
       }
     },
@@ -991,7 +1302,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.31,
-          "tokens": 647
+          "tokens": 647,
+          "output": {
+            "title": null,
+            "company": null,
+            "location": null,
+            "salary_min": 65000,
+            "salary_max": 65000,
+            "required_skills": [],
+            "experience_years": 2,
+            "employment_type": "Full-time",
+            "remote": null
+          }
         },
         "cohere": {
           "field_scores": {
@@ -1029,7 +1351,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 1.408,
-          "tokens": 842.0
+          "tokens": 842.0,
+          "output": {
+            "title": null,
+            "company": null,
+            "location": null,
+            "salary_min": 65000,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": 2,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "mistral": {
           "field_scores": {
@@ -1067,7 +1400,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.699,
-          "tokens": 737
+          "tokens": 737,
+          "output": {
+            "title": "Human Resources Manager",
+            "company": null,
+            "location": null,
+            "salary_min": 65000,
+            "salary_max": 65000,
+            "required_skills": [],
+            "experience_years": 2,
+            "employment_type": null,
+            "remote": null
+          }
         }
       }
     },
@@ -1110,7 +1454,20 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.499,
-          "tokens": 841
+          "tokens": 841,
+          "output": {
+            "title": null,
+            "company": null,
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "Smartsheets"
+            ],
+            "experience_years": 5,
+            "employment_type": null,
+            "remote": false
+          }
         },
         "cohere": {
           "field_scores": {
@@ -1148,7 +1505,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 25.369,
-          "tokens": 1043.0
+          "tokens": 1043.0,
+          "output": {
+            "title": null,
+            "company": null,
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": 5,
+            "employment_type": null,
+            "remote": false
+          }
         },
         "mistral": {
           "field_scores": {
@@ -1186,7 +1554,20 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.772,
-          "tokens": 990
+          "tokens": 990,
+          "output": {
+            "title": "HR Project Manager",
+            "company": null,
+            "location": "Onsite",
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "Smartsheet"
+            ],
+            "experience_years": 5,
+            "employment_type": "Part-time",
+            "remote": false
+          }
         }
       }
     },
@@ -1229,7 +1610,23 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.495,
-          "tokens": 1279
+          "tokens": 1279,
+          "output": {
+            "title": "Human Resources Information Systems Partner III",
+            "company": "Marvin",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "UKG Pro",
+              "UKG Workforce Management",
+              "Business Intelligence",
+              "Cognos Reporting"
+            ],
+            "experience_years": 4,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "cohere": {
           "field_scores": {
@@ -1267,7 +1664,27 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 3.837,
-          "tokens": 1557.0
+          "tokens": 1557.0,
+          "output": {
+            "title": "Human Resources Information Systems Partner III",
+            "company": "Marvin",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "UKG Pro",
+              "UKG Workforce Management",
+              "Business Intelligence",
+              "Cognos Reporting",
+              "HRIS",
+              "Human Resources",
+              "IT",
+              "Computer Science"
+            ],
+            "experience_years": 4,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "mistral": {
           "field_scores": {
@@ -1305,7 +1722,23 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.808,
-          "tokens": 1536
+          "tokens": 1536,
+          "output": {
+            "title": "Human Resources Information Systems Partner III",
+            "company": "Marvin",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "UKG Pro",
+              "UKG Workforce Management",
+              "Business Intelligence",
+              "Cognos Reporting"
+            ],
+            "experience_years": 4,
+            "employment_type": null,
+            "remote": null
+          }
         }
       }
     },
@@ -1348,7 +1781,18 @@
           "f1_avg": 1.0,
           "hallucination_rate": 0.0,
           "latency": 0.426,
-          "tokens": 1273
+          "tokens": 1273,
+          "output": {
+            "title": "Human Resources Specialist",
+            "company": "GROUP MANAGEMENT SERVICES",
+            "location": "Richfield, OH",
+            "salary_min": 50000,
+            "salary_max": 55000,
+            "required_skills": [],
+            "experience_years": 1,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "cohere": {
           "field_scores": {
@@ -1386,7 +1830,18 @@
           "f1_avg": 1.0,
           "hallucination_rate": 0.0,
           "latency": 3.117,
-          "tokens": 1529.0
+          "tokens": 1529.0,
+          "output": {
+            "title": "Human Resources Specialist",
+            "company": "Group Management Services",
+            "location": "Richfield, OH",
+            "salary_min": 50000,
+            "salary_max": 55000,
+            "required_skills": [],
+            "experience_years": 1,
+            "employment_type": null,
+            "remote": false
+          }
         },
         "mistral": {
           "field_scores": {
@@ -1424,7 +1879,18 @@
           "f1_avg": 1.0,
           "hallucination_rate": 0.0,
           "latency": 0.771,
-          "tokens": 1567
+          "tokens": 1567,
+          "output": {
+            "title": "Human Resources Specialist",
+            "company": "GROUP MANAGEMENT SERVICES",
+            "location": "Richfield, OH",
+            "salary_min": 50000,
+            "salary_max": 55000,
+            "required_skills": [],
+            "experience_years": 1,
+            "employment_type": null,
+            "remote": false
+          }
         }
       }
     },
@@ -1467,7 +1933,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.409,
-          "tokens": 1254
+          "tokens": 1254,
+          "output": {
+            "title": null,
+            "company": "AEG",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "cohere": {
           "field_scores": {
@@ -1505,7 +1982,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 3.438,
-          "tokens": 1518.0
+          "tokens": 1518.0,
+          "output": {
+            "title": "HR Generalist",
+            "company": "AEG",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "mistral": {
           "field_scores": {
@@ -1543,7 +2031,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.632,
-          "tokens": 1526
+          "tokens": 1526,
+          "output": {
+            "title": "HR Generalist",
+            "company": "AEG",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         }
       }
     },
@@ -1586,7 +2085,24 @@
           "f1_avg": 1.0,
           "hallucination_rate": 0.0,
           "latency": 0.572,
-          "tokens": 1129
+          "tokens": 1129,
+          "output": {
+            "title": "HUMAN RESOURCES COORDINATOR",
+            "company": null,
+            "location": "New York, NY",
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "Excel",
+              "PowerPoint",
+              "SuccessFactors",
+              "Workday",
+              "SAP"
+            ],
+            "experience_years": 3,
+            "employment_type": "Contract",
+            "remote": null
+          }
         },
         "cohere": {
           "field_scores": {
@@ -1624,7 +2140,25 @@
           "f1_avg": 1.0,
           "hallucination_rate": 0.0,
           "latency": 9.352,
-          "tokens": 1359.0
+          "tokens": 1359.0,
+          "output": {
+            "title": "HUMAN RESOURCES COORDINATOR",
+            "company": null,
+            "location": "New York, NY",
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "HR Systems",
+              "Workforce Planning",
+              "Advanced Excel",
+              "Powerpoint",
+              "Finance",
+              "Multitasking"
+            ],
+            "experience_years": 3,
+            "employment_type": "Contract",
+            "remote": false
+          }
         },
         "mistral": {
           "field_scores": {
@@ -1662,7 +2196,26 @@
           "f1_avg": 1.0,
           "hallucination_rate": 0.0,
           "latency": 1.089,
-          "tokens": 1309
+          "tokens": 1309,
+          "output": {
+            "title": "Human Resources Coordinator",
+            "company": null,
+            "location": "New York, NY",
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "SuccessFactors",
+              "Workday",
+              "SAP",
+              "Microsoft Excel",
+              "Microsoft PowerPoint",
+              "V-lookup",
+              "HR Systems"
+            ],
+            "experience_years": 3,
+            "employment_type": "Contract",
+            "remote": false
+          }
         }
       }
     },
@@ -1705,7 +2258,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.382,
-          "tokens": 1276
+          "tokens": 1276,
+          "output": {
+            "title": "HR Director",
+            "company": "Client Details",
+            "location": "Auburn",
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": 6,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "cohere": {
           "field_scores": {
@@ -1743,7 +2307,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 2.525,
-          "tokens": 1502.0
+          "tokens": 1502.0,
+          "output": {
+            "title": null,
+            "company": null,
+            "location": "Auburn, NY",
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": 6,
+            "employment_type": null,
+            "remote": false
+          }
         },
         "mistral": {
           "field_scores": {
@@ -1781,7 +2356,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.902,
-          "tokens": 1555
+          "tokens": 1555,
+          "output": {
+            "title": "HR Director",
+            "company": null,
+            "location": "Auburn, NY",
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": 6,
+            "employment_type": null,
+            "remote": null
+          }
         }
       }
     },
@@ -1824,7 +2410,18 @@
           "f1_avg": 1.0,
           "hallucination_rate": 0.0,
           "latency": 0.442,
-          "tokens": 1248
+          "tokens": 1248,
+          "output": {
+            "title": "Human Resources Generalist",
+            "company": "SIGVARIS",
+            "location": "Peachtree City, GA",
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": false
+          }
         },
         "cohere": {
           "field_scores": {
@@ -1862,7 +2459,18 @@
           "f1_avg": 1.0,
           "hallucination_rate": 0.0,
           "latency": 30.181,
-          "tokens": 1487.0
+          "tokens": 1487.0,
+          "output": {
+            "title": "Human Resources Generalist",
+            "company": "SIGVARIS",
+            "location": "Peachtree City, GA",
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": false
+          }
         },
         "mistral": {
           "field_scores": {
@@ -1900,7 +2508,18 @@
           "f1_avg": 1.0,
           "hallucination_rate": 0.0,
           "latency": 0.727,
-          "tokens": 1533
+          "tokens": 1533,
+          "output": {
+            "title": "Human Resources Generalist",
+            "company": "SIGVARIS",
+            "location": "Peachtree City, GA",
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         }
       }
     },
@@ -1943,7 +2562,20 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.399,
-          "tokens": 857
+          "tokens": 857,
+          "output": {
+            "title": "HR Assistant",
+            "company": "Thermal Concepts",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "Microsoft Office"
+            ],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "cohere": {
           "field_scores": {
@@ -1981,7 +2613,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 2.95,
-          "tokens": 1056.0
+          "tokens": 1056.0,
+          "output": {
+            "title": null,
+            "company": "Thermal Concepts",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "mistral": {
           "field_scores": {
@@ -2019,7 +2662,20 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.646,
-          "tokens": 998
+          "tokens": 998,
+          "output": {
+            "title": "HR Assistant",
+            "company": "Thermal Concepts",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "Microsoft Office"
+            ],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         }
       }
     },
@@ -2062,7 +2718,22 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.514,
-          "tokens": 982
+          "tokens": 982,
+          "output": {
+            "title": "Junior Human Resources Generalist",
+            "company": null,
+            "location": "Delta, PA",
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "Microsoft Word",
+              "PowerPoint",
+              "Excel"
+            ],
+            "experience_years": 1,
+            "employment_type": "Contract",
+            "remote": true
+          }
         },
         "cohere": {
           "field_scores": {
@@ -2100,7 +2771,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 1.579,
-          "tokens": 1201.0
+          "tokens": 1201.0,
+          "output": {
+            "title": null,
+            "company": null,
+            "location": "Delta, PA (17314)",
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": 1,
+            "employment_type": "Contract",
+            "remote": true
+          }
         },
         "mistral": {
           "field_scores": {
@@ -2138,7 +2820,24 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.8,
-          "tokens": 1160
+          "tokens": 1160,
+          "output": {
+            "title": "Junior Human Resources Generalist",
+            "company": null,
+            "location": "Delta, PA",
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "Microsoft Word",
+              "Microsoft PowerPoint",
+              "Microsoft Excel",
+              "Pivot Tables",
+              "VLOOKUPS"
+            ],
+            "experience_years": 1,
+            "employment_type": "Contract",
+            "remote": true
+          }
         }
       }
     },
@@ -2181,7 +2880,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.539,
-          "tokens": 1304
+          "tokens": 1304,
+          "output": {
+            "title": "HRBP",
+            "company": "IntePros",
+            "location": "Kankakee, IL",
+            "salary_min": 83200,
+            "salary_max": 104000,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "cohere": {
           "field_scores": {
@@ -2219,7 +2929,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 3.381,
-          "tokens": 1532.0
+          "tokens": 1532.0,
+          "output": {
+            "title": "HRBP",
+            "company": "Intepros",
+            "location": "Kankakee, IL",
+            "salary_min": 40000,
+            "salary_max": 50000,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": false
+          }
         },
         "mistral": {
           "field_scores": {
@@ -2257,7 +2978,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.759,
-          "tokens": 1534
+          "tokens": 1534,
+          "output": {
+            "title": "HRBP",
+            "company": "Intepros",
+            "location": "Kankakee, IL",
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": false
+          }
         }
       }
     },
@@ -2300,7 +3032,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.301,
-          "tokens": 1250
+          "tokens": 1250,
+          "output": {
+            "title": "HR Solutions Manager",
+            "company": "Lumen",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "cohere": {
           "field_scores": {
@@ -2338,7 +3081,18 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 1.552,
-          "tokens": 1501.0
+          "tokens": 1501.0,
+          "output": {
+            "title": "HR Solutions Manager",
+            "company": "Lumen",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         },
         "mistral": {
           "field_scores": {
@@ -2376,7 +3130,22 @@
           "f1_avg": 0.0,
           "hallucination_rate": 0.0,
           "latency": 0.721,
-          "tokens": 1522
+          "tokens": 1522,
+          "output": {
+            "title": "HR Solutions Manager",
+            "company": "Lumen",
+            "location": null,
+            "salary_min": null,
+            "salary_max": null,
+            "required_skills": [
+              "Agile Methodologies",
+              "Analytics",
+              "Project Management"
+            ],
+            "experience_years": null,
+            "employment_type": null,
+            "remote": null
+          }
         }
       }
     }
@@ -2390,18 +3159,18 @@
       "samples_scored": 20,
       "errors": 0
     },
-    "mistral": {
-      "f1_avg": 0.2,
-      "hallucination_rate": 0.008,
-      "avg_latency": 0.834,
-      "success_rate": 1.0,
-      "samples_scored": 20,
-      "errors": 0
-    },
     "cohere": {
       "f1_avg": 0.2,
       "hallucination_rate": 0.0,
       "avg_latency": 18.881,
+      "success_rate": 1.0,
+      "samples_scored": 20,
+      "errors": 0
+    },
+    "mistral": {
+      "f1_avg": 0.2,
+      "hallucination_rate": 0.008,
+      "avg_latency": 0.834,
       "success_rate": 1.0,
       "samples_scored": 20,
       "errors": 0
